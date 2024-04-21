@@ -1,7 +1,7 @@
 ## Halloween Landing Page - DevClub
 
 <div align="center">
-   <img width="610" src="./assets/readme/main-img.PNG">
+   <img width="610" src="./assets/readme/main-img.png">
 
 </div>
 
