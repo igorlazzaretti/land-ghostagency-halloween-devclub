@@ -1,7 +1,7 @@
 ## Halloween Landing Page - DevClub
 
 <div align="center">
-   <img width="310" src="./assets/readme/main.png">
+   <img width="310" src="./assets/readme/main.PNG">
 </div>
 
 ## Club do Portifólio
