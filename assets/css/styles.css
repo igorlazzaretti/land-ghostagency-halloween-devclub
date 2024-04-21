@@ -1,1 +1,14 @@
-@import url(https://igorlazzaretti.com/reset.css)
+@import url(https://igorlazzaretti.com/reset.css);
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    box-sizing: border-box;
+
+}
+body{
+  background: linear-gradient(136deg, #5b874bf7 12.91%, #0c3720de 87.68%);
+  width: 100%;
+  min-height: 100vh;
+  padding: 12px 60px;
+}
