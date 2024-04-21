@@ -1,20 +1,13 @@
-## DevBurguer Interface - DevClub
+## Halloween Landing Page - DevClub
 
 <div align="center">
-   <img width="310" src="./readme-assets/MainLogo.png">
+   <img width="310" src="./assets/readme/main.png">
 </div>
 
 ## Sobre o Projeto
 
-Esse projeto Frontend faz parte do projeto final do curso MBA FullStak do DevClub.
+Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o Módulo denominado "Club de Portifólio"
 
-Este projeto, juntamente com a aplicação Backend, tem foco no mercado e, assim, foi desenvolvida utilizando uma variedade de tecnologias modernas para criar uma experiência robusta e escalável. Abaixo estão as principais tecnologias utilizadas:
-
-- ESLint e Prettier para organização e limpeza do código (clean code).
-- Biblioteca em JavaScript: React.
-- Ferramenta para estilização através do React: Styled Components.
-- Utilização do React Hook useContext.
-- Utilização de JWT (JSON Web Tokens) para as chamadas de API.
 - Figma: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
 
 
@@ -23,11 +16,6 @@ Este projeto, juntamente com a aplicação Backend, tem foco no mercado e, assim
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="65"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="70" height="65"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="70" height="65"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled-Componets" alt="Styled-Componets" width="70" height="65"/>&nbsp;
-  <img src="https://jwt.io/img/pic_logo.svg" title="JWToken" alt="JWToken" width="70" height="65"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="70" height="65"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" title="Prettier" alt="Prettier" width="70" height="65"/>&nbsp;
 
 </div>
 
@@ -41,24 +29,18 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <div align="center">
 
-<img  width="210" src="./readme-assets/devclubico.png"> </div>
+<img  width="210" src="./assets/readme/devclubico.png"> </div>
 
 ## Sobre o Professor
 
-Sou um desenvolvedor de software com mais de 6 anos de experiência na criação de produtos digitais e serviços inovadores. Tenho uma paixão por buscar ambientes que me proporcionem o desenvolvimento contínuo de minhas habilidades técnicas e de liderança, enquanto também contribuo para o crescimento e aprimoramento das pessoas ao meu redor.
+Com mais de 3 anos de experiência em desenvolvimento de software. Minha experiência reside no desenvolvimento de sistemas ponta a ponta, apoiado por um histórico comprovado de entrega de projetos impactantes. Além disso, me dedico a retribuir à comunidade de tecnologia, compartilhando meu conhecimento e experiência, criando conteúdo e orientando profissionais.
 
-Minha motivação é fazer parte da construção de aplicações que não apenas atendam às necessidades do mercado, mas que também tenham um impacto positivo e significativo na vida das pessoas. Sou um entusiasta da colaboração interdisciplinar, acreditando que as melhores soluções surgem quando diferentes áreas se unem para enfrentar desafios complexos. Sou proativo por natureza e sempre busco maneiras de inovar e aprimorar processos, garantindo que nosso trabalho esteja sempre na vanguarda da tecnologia.
-
-Meu compromisso com a excelência é evidente em minha busca constante pelo aprendizado. Estou sempre atualizado com as mais recentes tecnologias, ferramentas e tendências de arquitetura de software. Além disso, estou constantemente explorando como aplicar esse conhecimento em meu dia a dia, a fim de criar soluções mais eficientes e eficazes.
-
-Estou ansioso para fazer parte de equipes inspiradoras e projetos desafiadores, onde posso contribuir com minha experiência e paixão pela tecnologia, ajudando a moldar um futuro digital mais promissor e impactante para todos.
-
-GitHub: https://github.com/agustinhopneto
+GitHub: https://github.com/Dev-Pedrosv
 
 
 
 <div align="center">
-<img src="./readme-assets/agustinhoM.png" width="160"><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank"> <p> Agustinho P Neto </p> </a>
+<img src="./assets/readme/phenrique.png" width="160"><a href="https://www.linkedin.com/in/pedroh-dev/" target="_blank"> <p> Pedro Henrique da Silva </p> </a>
 </div>
 
 ## Sobre o Idealizador do Curso
@@ -71,18 +53,18 @@ Hoje o meu propósito é ajudar o máximo de pessoas a transformarem suas vidas 
 
 
 <div align="center">
-<img src="./readme-assets/rodolfomoriM.png" width="160" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank">Rodolfo Mori</a>
+<img src="./assets/readme/rodolfomoriM.png" width="160" style="border-radius:60px"><br><a href="https://www.linkedin.com/in/agustinhopneto/" target="_blank">Rodolfo Mori</a>
 </div>
 
 
 ## Sobre o Aluno
 <div align="center">
 
-<img src="./readme-assets/Banner-Github-M.png"  style="border-radius:20px">
+<img src="./assets/readme/Banner-Github-M.png"  style="border-radius:20px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=700&color=ED51F7&center=true&vCenter=true&random=false&width=490&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Meu+nome+%C3%A9+Igor;Hello!+%F0%9F%91%8B+My+name+is+Igor)](https://git.io/typing-svg)
 
-<img src="./readme-assets/igor.png" width="190" style="border-radius:60px">
+<img src="./assets/readme/igor.png" width="190" style="border-radius:60px">
 
 </div>
 
