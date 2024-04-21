@@ -4,9 +4,12 @@
    <img width="310" src="./assets/readme/main.png">
 </div>
 
-## Sobre o Projeto
+## Club do Portifólio
 
-Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o Módulo denominado "Club de Portifólio"
+<div align="center">
+   <img width="310" src="./assets/readme/ClubdoPLogo.png">
+</div>
+Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o Módulo denominado "Club de Portifólio". Aqui utilizando ferramentas na prática simulando projeto reais para engrandecer nosso portifólio.
 
 - Figma: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
 
